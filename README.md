@@ -6,7 +6,7 @@
 
 ## 시스템 구조도
 
-![시스템 구조도](./System-Architecture.jpg)
+[시스템 구조도](./System-Architecture.jpg)
 
 ## 주요 기능
 - MongoDB에서 Python FastAPI를 통해 개인정보 3단계 필터링
